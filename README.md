@@ -2,7 +2,7 @@
 
 This profile was created to famiiliarize myself with designing a web page using bootstrap. 
 
-<ol>Technologies used
+<ol>Technologies used <br>
   <li>HTML5</li>
   <li>CSS3</li>
   <li>Boostrap4</li>
